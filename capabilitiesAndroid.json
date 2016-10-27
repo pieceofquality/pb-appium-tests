@@ -1,0 +1,11 @@
+// should be started by command "appium --default-capabilities capabilitiesAndroid.json"
+
+{
+  "platformName": "Android",
+  "deviceName":"Android Emulator",
+  "app": "pinbonus.apk"
+}
+
+
+
+// appium -dc "{\"platformName\": \"Android\",\"deviceName\":\"Android Emulator\",\"app\":\"D:\Projects\pb-appium-tests\apps\pinbonus.apk\"}"
